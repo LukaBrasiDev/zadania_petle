@@ -3,6 +3,13 @@ package pl.lukabrasi;
 public class Main {
 
     public static void main(String[] args) {
+
+       // Zadania_Petle.pdf
+        // 15.10.2018 BLOK 2
+
+
+
+
 	// 1. Napisz program, który wypisuje wszystkie liczby od 5 do 10
 
         for (int i = 5; i < 11; i++) {
